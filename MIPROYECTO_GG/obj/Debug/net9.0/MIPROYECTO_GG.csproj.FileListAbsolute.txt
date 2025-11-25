@@ -1,0 +1,14 @@
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\bin\Debug\net9.0\MIPROYECTO_GG.exe
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\bin\Debug\net9.0\MIPROYECTO_GG.deps.json
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\bin\Debug\net9.0\MIPROYECTO_GG.runtimeconfig.json
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\bin\Debug\net9.0\MIPROYECTO_GG.dll
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\bin\Debug\net9.0\MIPROYECTO_GG.pdb
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\MIPROYECTO_GG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\MIPROYECTO_GG.AssemblyInfoInputs.cache
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\MIPROYECTO_GG.AssemblyInfo.cs
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\MIPROYECTO_GG.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\MIPROYECTO_GG.dll
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\refint\MIPROYECTO_GG.dll
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\MIPROYECTO_GG.pdb
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\MIPROYECTO_GG.genruntimeconfig.cache
+C:\Users\Marco\Superior\EntornosDesarrollo\Unidad3\vscodeGor\MIPROYECTO_GG\obj\Debug\net9.0\ref\MIPROYECTO_GG.dll
