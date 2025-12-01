@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIPROYECTO_GG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c59f3d1680a8f742313297b359f103374f909f2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIPROYECTO_GG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIPROYECTO_GG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
